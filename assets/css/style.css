@@ -1,0 +1,59 @@
+/*back ground */
+body {
+    background: url(../images/PaprikaWasteland.jpg);
+    background-size: cover
+}
+/*charecter img and containers*/
+#gokuContainer {
+    background: white;
+    padding: 25px;
+    border: red;
+    border-style: solid;
+}
+
+#gokuimg {
+    vertical-align: middle;
+    border: red;
+    border-style: solid;
+}
+#vegetaContainer {
+    background: white;
+    padding: 25px;
+    border: red;
+    border-style: solid;
+}
+
+#vegetaimg {
+    vertical-align: middle;
+    border: red;
+    border-style: solid;
+}
+#krillinContainer {
+    background: white;
+    padding: 25px;
+    border: red;
+    border-style: solid;
+}
+
+#krillinimg {
+    vertical-align: middle;
+    border: red;
+    border-style: solid;
+}
+#nappaContainer {
+    background: white;
+    padding: 25px;
+    border: red;
+    border-style: solid;
+}
+
+#nappaimg {
+    vertical-align: middle;
+    border: red;
+    border-style: solid;
+}
+/*name plates and hp stats*/
+.name {
+    position: relative;
+    right: -18%
+}

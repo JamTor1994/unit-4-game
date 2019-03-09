@@ -122,7 +122,7 @@ $("#attackBtn").on("click", function (event) {
             $("#vegetaContainer").css({ backgroundColor: "black" })
         }
 
-    } else if (currentCharacter.Hp === 0) {
+    } else if (currentCharacter.Hp <= 0) {
         alert("You Lose")
     }
 })
